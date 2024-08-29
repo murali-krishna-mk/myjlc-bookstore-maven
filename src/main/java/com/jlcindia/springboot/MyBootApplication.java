@@ -8,7 +8,7 @@ public class MyBootApplication {
 public static void main(String[] args) {
 System.out.println("Starting Boot Application");
 System.out.println("Update - Jenkins CI Pipeline by Murali");
-
+System.out.println("Update - Jenkins CI Pipeline by Murali 2");
   
 SpringApplication.run(MyBootApplication.class, args);
 }
